@@ -47,3 +47,39 @@ Key Topics: Arrays, Sorting, Sliding Window, Range Management.
 Time Complexity: O(n log n) (due to sorting)
 Space Complexity: O(n)
 ```
+# 🌟 Highlights of This Repository
+- Optimized Solutions: The solutions are not only correct but also optimized for performance.
+- Step-by-Step Explanations: Each problem comes with a detailed breakdown of the approach used, including time and space complexity.
+- Interview Preparation: Great resource for developers preparing for coding interviews, especially those focusing on LeetCode-style problems.
+## 📂 Repository Structure
+
+Here’s how the repository is organized:
+
+```plaintext
+LeetCode_Solutions/
+│
+├── maximum_beauty.py       # Python code for the Maximum Beauty problem
+├── two_sum.py              # Python code for the Two Sum problem
+│
+└── README.md               # Overview of the repository
+```
+## 🛠 Technologies Used
+- Python: Solutions implemented using Python 🐍
+- Data Structures: Arrays, Heaps, Linked Lists, Trees, Graphs
+- Algorithms: Sorting, Searching, Dynamic Programming, Greedy Algorithms
+
+## 💡 Contributing
+- Contributions are welcome! If you have a more optimized solution or additional test cases, feel free to open a pull request.
+To contribute:
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Submit a pull request.
+## 📜 License
+- This repository is licensed under the MIT License. See the LICENSE file for details.
+## 🔗 Connect with Me
+- YouTube: <a href="https://www.youtube.com/@doiknowthisthing">DoIKnowThisThing?</a>
+- Twitter: <a href="https://x.com/SanjoliVashisth">Sanjoli Vashisth</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/sanjoli-vashisth-605212311/">Sanjoli Vashisth</a>
+
+
