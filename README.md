@@ -1,4 +1,4 @@
-# LeetCode Solutions in Python 🧑‍💻
+# LeetCode Solutions in Python, Java and C++ 🧑‍💻
 
 Welcome to my **LeetCode Solutions** repository! This repo contains well-documented Python solutions to various LeetCode problems. Whether you're preparing for coding interviews, improving your algorithm skills, or just solving coding challenges for fun, you'll find optimized solutions to many of the most popular problems. 🚀
 
